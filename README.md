@@ -4,7 +4,7 @@ simple php js vanilla SPA with basic CRUD actions
 
 ## Installation
 
-You just need to start your web server and configure the installer.php file inside the app/database folder setting the database user and password:
+You just need to start your web server and configure the installer.php and the connection.php files inside the app/database folder setting the database user and password:
 
 ```bash
 <?php
